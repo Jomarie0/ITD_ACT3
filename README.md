@@ -78,12 +78,6 @@ git lfs pull
 
 ---
 
-## 📊 **Example Output**  
-Here’s an example of one of the correlation analyses performed in the project:  
-![Sample Graph](images/accident_analysis.png) *(Replace this with your actual graph)*  
-
----
-
 ## 🤝 **Contributors**  
 - **Jomarie** ([@Jomarie0](https://github.com/Jomarie0))  
 
